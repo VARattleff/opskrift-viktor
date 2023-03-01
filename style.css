@@ -40,7 +40,7 @@ article {
 aside {
   grid-area: aside;
   background-color: #c7b198;
-  padding: 10%;
+  padding: 5%;
   border: 1px solid #596e79;
 }
 
@@ -71,3 +71,6 @@ img {
 nav > ol {
   list-style-type: none;
 }
+
+
+
